@@ -59,8 +59,12 @@ cd <NOME_DO_REPOSITORIO>
 
 pip install -r requirements.txt
 
+#https://console.groq.com/keys
 GROQ_API_KEY =s eu_api_key_aqui
+#https://serper.dev/api-key
 SERPER_API_KEY = seu_api_key_aqui
 
 python seu_script.py
+
+
 
